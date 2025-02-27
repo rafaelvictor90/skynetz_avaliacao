@@ -1,0 +1,266 @@
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.WebUI.dll.config
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.WebUI.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.WebUI.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\csc.exe
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\csc.exe.config
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\csc.rsp
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\csi.exe
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\csi.exe.config
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\csi.rsp
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.AppContext.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Console.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Net.Http.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Net.Sockets.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\vbc.exe
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\vbc.exe.config
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\vbc.rsp
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Antlr3.Runtime.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\EntityFramework.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Newtonsoft.Json.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.Application.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\System.Web.Optimization.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\WebGrease.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.Infra.Data.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.Domain.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\AutoMapper.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.Application.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\EntityFramework.xml
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\System.Web.Optimization.xml
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Newtonsoft.Json.xml
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Antlr3.Runtime.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.Infra.Data.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.Infra.Data.dll.config
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.Domain.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\AutoMapper.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\AutoMapper.xml
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\obj\Debug\Skynetz.WebUI.csproj.AssemblyReference.cache
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\obj\Debug\Skynetz.WebUI.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\obj\Debug\Skynetz.WebUI.csproj.CopyComplete
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\obj\Debug\Skynetz.WebUI.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\obj\Debug\Skynetz.WebUI.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\AutoMapper.Net4.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.WebUI.dll.config
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.WebUI.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.WebUI.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\csc.exe
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\csi.exe
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\EntityFramework.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.Application.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\WebGrease.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.Infra.Data.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.Domain.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\AutoMapper.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.Application.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\EntityFramework.xml
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.Infra.Data.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.Infra.Data.dll.config
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\Skynetz.Domain.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\AutoMapper.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\bin\AutoMapper.xml
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\obj\Debug\Skynetz.WebUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\obj\Debug\Skynetz.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\obj\Debug\Skynetz..9B8E6379.Up2Date
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\obj\Debug\Skynetz.WebUI.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.WebUI\obj\Debug\Skynetz.WebUI.pdb
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\AutoMapper.Net4.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Skynetz.WebUI.dll.config
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Skynetz.WebUI.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Skynetz.WebUI.pdb
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\csc.exe
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\csc.exe.config
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\csc.rsp
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\csi.exe
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\csi.exe.config
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\csi.rsp
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.AppContext.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Console.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Net.Http.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Net.Sockets.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\vbc.exe
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\vbc.exe.config
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\vbc.rsp
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Antlr3.Runtime.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\EntityFramework.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Newtonsoft.Json.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Skynetz.Application.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\System.Web.Optimization.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\WebGrease.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Skynetz.Infra.Data.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Skynetz.Domain.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\AutoMapper.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Skynetz.Application.pdb
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\EntityFramework.xml
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\System.Web.Optimization.xml
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Newtonsoft.Json.xml
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Antlr3.Runtime.pdb
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Skynetz.Infra.Data.pdb
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Skynetz.Infra.Data.dll.config
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\Skynetz.Domain.pdb
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\AutoMapper.pdb
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\bin\AutoMapper.xml
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\obj\Debug\Skynetz.WebUI.csproj.AssemblyReference.cache
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\obj\Debug\Skynetz.WebUI.csproj.CoreCompileInputs.cache
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\obj\Debug\Skynetz..9B8E6379.Up2Date
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\obj\Debug\Skynetz.WebUI.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.WebUI\obj\Debug\Skynetz.WebUI.pdb

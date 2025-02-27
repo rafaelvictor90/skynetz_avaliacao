@@ -1,0 +1,18 @@
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Domain\bin\Debug\Skynetz.Domain.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Domain\bin\Debug\Skynetz.Domain.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Domain\obj\Debug\Skynetz.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Domain\obj\Debug\Skynetz.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Domain\obj\Debug\Skynetz.Domain.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Domain\obj\Debug\Skynetz.Domain.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Domain\bin\Debug\Skynetz.Domain.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Domain\bin\Debug\Skynetz.Domain.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Domain\obj\Debug\Skynetz.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Domain\obj\Debug\Skynetz.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Domain\obj\Debug\Skynetz.Domain.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Domain\obj\Debug\Skynetz.Domain.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Domain\bin\Debug\Skynetz.Domain.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Domain\bin\Debug\Skynetz.Domain.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Domain\obj\Debug\Skynetz.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Domain\obj\Debug\Skynetz.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Domain\obj\Debug\Skynetz.Domain.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Domain\obj\Debug\Skynetz.Domain.pdb

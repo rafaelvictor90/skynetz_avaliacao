@@ -1,0 +1,68 @@
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Application\bin\Debug\Skynetz.Application.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Application\bin\Debug\Skynetz.Application.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Application\bin\Debug\Skynetz.Domain.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Application\bin\Debug\Skynetz.Infra.Data.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Application\bin\Debug\Skynetz.Domain.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Application\bin\Debug\Skynetz.Infra.Data.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Application\obj\Debug\Skynetz.Application.csproj.AssemblyReference.cache
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Application\obj\Debug\Skynetz.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Application\obj\Debug\Skynetz.Application.csproj.CopyComplete
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Application\obj\Debug\Skynetz.Application.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\Skynetz\Skynetz.Application\obj\Debug\Skynetz.Application.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\AutoMapper.Net4.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\Skynetz.Application.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\Skynetz.Application.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\AutoMapper.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\Skynetz.Domain.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\Skynetz.Infra.Data.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\EntityFramework.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\Skynetz.Domain.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\Skynetz.Infra.Data.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\Skynetz.Infra.Data.dll.config
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\AutoMapper.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\AutoMapper.xml
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\AutoMapper.Net4.pdb
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\EntityFramework.xml
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\obj\Debug\Skynetz.Application.csproj.AssemblyReference.cache
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\obj\Debug\Skynetz.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\obj\Debug\Skynetz.Application.csproj.CopyComplete
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\obj\Debug\Skynetz.Application.dll
+C:\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\obj\Debug\Skynetz.Application.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\AutoMapper.Net4.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\Skynetz.Application.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\Skynetz.Application.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\AutoMapper.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\Skynetz.Domain.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\Skynetz.Infra.Data.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\Skynetz.Domain.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\Skynetz.Infra.Data.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\Skynetz.Infra.Data.dll.config
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\AutoMapper.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\AutoMapper.xml
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\obj\Debug\Skynetz.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\obj\Debug\Skynetz.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\obj\Debug\Skynetz..06A18C9C.Up2Date
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\obj\Debug\Skynetz.Application.dll
+C:\Users\User\Desktop\O.S 4065 - Rafael\C\Projetos\Testes\AvaliacaoMilaneli\skynetz_avaliacao\Skynetz.Application\obj\Debug\Skynetz.Application.pdb
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\bin\Debug\AutoMapper.Net4.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\bin\Debug\Skynetz.Application.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\bin\Debug\Skynetz.Application.pdb
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\bin\Debug\AutoMapper.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\bin\Debug\Skynetz.Domain.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\bin\Debug\Skynetz.Infra.Data.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\bin\Debug\EntityFramework.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\bin\Debug\Skynetz.Domain.pdb
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\bin\Debug\Skynetz.Infra.Data.pdb
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\bin\Debug\Skynetz.Infra.Data.dll.config
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\bin\Debug\AutoMapper.pdb
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\bin\Debug\AutoMapper.xml
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\bin\Debug\AutoMapper.Net4.pdb
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\bin\Debug\EntityFramework.xml
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\obj\Debug\Skynetz.Application.csproj.AssemblyReference.cache
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\obj\Debug\Skynetz.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\obj\Debug\Skynetz..06A18C9C.Up2Date
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\obj\Debug\Skynetz.Application.dll
+C:\Projetos\AvaliacaoMilaneli\Teste\Skynetz.Application\obj\Debug\Skynetz.Application.pdb
